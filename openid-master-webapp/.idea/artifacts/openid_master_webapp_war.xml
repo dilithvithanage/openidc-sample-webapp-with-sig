@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="openid-master-webapp:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="openid-master-webapp-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="openid-master-webapp:war exploded" />
+    </root>
+  </artifact>
+</component>

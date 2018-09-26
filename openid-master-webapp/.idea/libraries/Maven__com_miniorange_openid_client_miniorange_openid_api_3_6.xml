@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.miniorange.openid.client:miniorange-openid-api:3.6">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/miniorange/openid/client/miniorange-openid-api/3.6/miniorange-openid-api-3.6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/miniorange/openid/client/miniorange-openid-api/3.6/miniorange-openid-api-3.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/miniorange/openid/client/miniorange-openid-api/3.6/miniorange-openid-api-3.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
