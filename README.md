@@ -1,4 +1,4 @@
-# openidc-sample-webapp
+# openidc-sample-webapp-with-signature-verification
 Sample webapp to demonstrate OpenID Connect with Signature verification <br>
 This is a maven project. Give mvn clean install to build the project and then deploy it in tomcat.<br>
 Follow this post <br>
